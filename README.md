@@ -9,7 +9,7 @@
 ## 💼 Experience
 
 - Worked as Coding Expert at [Outlier](https://outlier.ai/)<img src="https://framerusercontent.com/images/4CIp67iRHdHqzFnhBIJ7iIx7N6M.svg" width="8%" style="margin-left: 10px;"/><br>
-- Wroked as Backend Intern at [Microsystems Egypt](https://www.microsystems-eg.com/)
+- Worked as Backend Intern at [Microsystems Egypt](https://www.microsystems-eg.com/)
   
 ### GitHub Stats 📊
 
