@@ -3,14 +3,25 @@
 </p>
 
 ## 👨‍💻 About Me
+- **Backend Engineer**👷‍♂️: I’m a Backend Engineer focused on building scalable systems, integrating APIs, and optimizing databases.
+- **Education**📙: Cairo University, Faculty of Computers and Artificial Intelligence
 
-I'm a dedicated **Backend Engineer** from Cairo University, Faculty of Computers and Artificial Intelligence. I love crafting efficient and scalable backend solutions.
+## 💼 Experience
 
-- **Education**: Cairo University, Faculty of Computers and Artificial Intelligence
-- **Role**: Backend Engineer
-- **Frameworks**: Express.js, ASP.NET
-- **Languages**: C++, C#, Python, Java, JavaScript
-- **Tools**: Docker, Redis
+- Worked as Coding Expert at [Outlier](https://outlier.ai/)<img src="https://framerusercontent.com/images/4CIp67iRHdHqzFnhBIJ7iIx7N6M.svg" width="8%" style="margin-left: 10px;"/><br>
+- Backend Intern at [Microsystems Egypt](https://www.microsystems-eg.com/)
+  
+### GitHub Stats 📊
+
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=RealOrangeKun&show_icons=true&theme=radical&hide=contribs" alt="Your GitHub Stats" />
+  </a>
+  <br>
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RealOrangeKun&theme=radical" alt="GitHub Streak Stats" />
+  </a>
+</p>
 
 ## 🚀 Skills
 
@@ -24,9 +35,15 @@ I'm a dedicated **Backend Engineer** from Cairo University, Faculty of Computers
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
+![NGINX](https://img.shields.io/badge/NGINX-FFFFF?style=for-the-badge&logo=nginx&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-0072C6?style=for-the-badge&logo=sql-server&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MONGODB-47A249?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yousef-tarek-ali/)
-- [Email](mailto:yousseftarekbusiness@gmail.com)
+- [![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white)](mailto:yousseftarekbusiness@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-tarek-ali/)
+
+
+*Thanks for visiting my GitHub profile!* 🚀
