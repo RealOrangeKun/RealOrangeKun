@@ -4,13 +4,13 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RealOrangeKun&show_icons=true&theme=radical&hide=contribs" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RealOrangeKun&theme=radical" alt="GitHub Streak Stats" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=RealOrangeKun&theme=radical" alt="GitHub Streak Stats" /> -->
 </div>
 
 ## 🚀 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Coder GIF" width="200">
 </div>
 
 - 💻 **Backend Engineer** | Building scalable systems and optimizing databases
@@ -44,7 +44,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=express,dotnet,cpp,cs,python,java,js,docker,redis,gcp,nginx,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=express,dotnet,cpp,cs,python,java,js,docker,redis,gcp,nginx,mysql,mongodb,bash" />
 </div>
 
 ## 📊 GitHub Analytics
@@ -74,5 +74,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
 </div>
