@@ -16,42 +16,22 @@
 - 💻 **Backend Engineer** | Building scalable systems and optimizing databases
 - 🎓 **Education** | Cairo University, Faculty of Computers and Artificial Intelligence
 
+## 💼 Experience
 
+- Worked as Coding Expert at [Outlier](https://outlier.ai/)<img src="https://framerusercontent.com/images/4CIp67iRHdHqzFnhBIJ7iIx7N6M.svg" width="8%" style="margin-left: 10px;"/><br>
+- Backend Intern at [Microsystems Egypt](https://www.microsystems-eg.com/)
+  
+### GitHub Stats 📊
 
-## 💼 Professional Experience
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://outlier.ai/">
-          <b>Outlier</b>
-          <br>
-          <sub>Coding Expert</sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://www.microsystems-eg.com/">
-          <b>Microsystems Egypt</b>
-          <br>
-          <sub>Backend Intern</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=express,dotnet,cpp,cs,python,java,js,docker,redis,gcp,nginx,mysql,mongodb" />
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RealOrangeKun&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=RealOrangeKun&show_icons=true&theme=radical&hide=contribs" alt="Your GitHub Stats" />
+  </a>
+  <br>
+  <a href="#">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=RealOrangeKun&theme=radical" alt="GitHub Streak Stats" />
+  </a>
+</p>
 
 ## 📫 Let's Connect
 
