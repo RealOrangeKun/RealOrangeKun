@@ -1,49 +1,78 @@
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=56BBF7&width=435&lines=Hi%2C+I+am+a+Backend+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</p>
+</div>
 
-## 👨‍💻 About Me
-- **Backend Engineer**👷‍♂️: I’m a Backend Engineer focused on building scalable systems, integrating APIs, and optimizing databases.
-- **Education**📙: Cairo University, Faculty of Computers and Artificial Intelligence
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RealOrangeKun&show_icons=true&theme=radical&hide=contribs" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RealOrangeKun&theme=radical" alt="GitHub Streak Stats" />
+</div>
 
-## 💼 Experience
+## 🚀 About Me
 
-- Worked as Coding Expert at [Outlier](https://outlier.ai/)<img src="https://framerusercontent.com/images/4CIp67iRHdHqzFnhBIJ7iIx7N6M.svg" width="8%" style="margin-left: 10px;"/><br>
-- Backend Intern at [Microsystems Egypt](https://www.microsystems-eg.com/)
-  
-### GitHub Stats 📊
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380">
+</div>
 
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=RealOrangeKun&show_icons=true&theme=radical&hide=contribs" alt="Your GitHub Stats" />
+- 💻 **Backend Engineer** | Building scalable systems and optimizing databases
+- 🎓 **Education** | Cairo University, Faculty of Computers and Artificial Intelligence
+
+
+
+## 💼 Professional Experience
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://outlier.ai/">
+          <b>Outlier</b>
+          <br>
+          <sub>Coding Expert</sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.microsystems-eg.com/">
+          <b>Microsystems Egypt</b>
+          <br>
+          <sub>Backend Intern</sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=express,dotnet,cpp,cs,python,java,js,docker,redis,gcp,nginx,mysql,mongodb" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RealOrangeKun&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="mailto:yousseftarekbusiness@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <br>
-  <a href="#">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RealOrangeKun&theme=radical" alt="GitHub Streak Stats" />
+  <a href="https://www.linkedin.com/in/yousef-tarek-ali/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
+  <a href="https://github.com/RealOrangeKun">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-## 🚀 Skills
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RealOrangeKun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-FFFFF?style=for-the-badge&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-0072C6?style=for-the-badge&logo=sql-server&logoColor=white)
-![MONGODB](https://img.shields.io/badge/MONGODB-47A249?style=for-the-badge&logo=mongodb&logoColor=white)
+---
 
-## 📫 Connect with Me
-
-- [![Email](https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white)](mailto:yousseftarekbusiness@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousef-tarek-ali/)
-
-
-*Thanks for visiting my GitHub profile!* 🚀
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
