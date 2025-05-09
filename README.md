@@ -56,7 +56,7 @@
 ## 📫 Let's Connect
 
 <div align="center">
-  <a href="mailto:yousseftarekbusiness@gmail.com">
+  <a href="mailto:yousseftarekali04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/yousef-tarek-ali/">
@@ -64,6 +64,10 @@
   </a>
   <a href="https://github.com/RealOrangeKun">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://youssef-tarek-portfolio.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
