@@ -37,6 +37,13 @@
           <sub>Backend Intern</sub>
         </a>
       </td>
+      <td align="center">
+        <a href="https://www.fawry.com/">
+          <b>Fawry</b>
+          <br>
+          <sub>Fullstack Intern</sub>
+        </a>
+      </td>
     </tr>
   </table>
 </div>
