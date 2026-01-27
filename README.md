@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=56BBF7&width=435&lines=Hi%2C+I+am+a+Backend+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RealOrangeKun&show_icons=true&theme=radical&hide=contribs" alt="GitHub Stats" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=RealOrangeKun&theme=radical" alt="GitHub Streak Stats" /> -->
-</div>
-
 ## 🚀 About Me
 
 <div align="center">
@@ -50,15 +45,56 @@
 
 ## 🛠️ Tech Stack
 
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <h3>💻 Languages</h3>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,js,bash" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h3>🔧 Frameworks</h3>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express,dotnet,spring,django,flask,fastapi" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h3>🗄️ Databases & Tools</h3>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,rabbitmq,nginx,docker,k8s,gcp,cypress" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <h3>🖥️ Environment</h3>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=arch,vscode,git,github,githubactions,postman" />
+    </td>
+  </tr>
+</table>
+
+## � Quote
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=express,dotnet,cpp,cs,python,java,js,docker,redis,gcp,nginx,mysql,mongodb,bash" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-## 📊 GitHub Analytics
+## �📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RealOrangeKun&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
+<p align="center">
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RealOrangeKun's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=RealOrangeKun&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="RealOrangeKun's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealOrangeKun&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</p>
 
 ## 📫 Let's Connect
 
