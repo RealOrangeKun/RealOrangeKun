@@ -67,7 +67,9 @@
       <h3>🗄️ Databases & Tools</h3>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,rabbitmq,nginx,docker,k8s,gcp,cypress" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,rabbitmq" />
+      <br/>
+      <img src="https://skillicons.dev/icons?i=nginx,docker,k8s,gcp,cypress" />
     </td>
   </tr>
   <tr>
@@ -80,13 +82,13 @@
   </tr>
 </table>
 
-## � Quote
+## 💭 Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
-## �📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <br/>
