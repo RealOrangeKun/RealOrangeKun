@@ -100,7 +100,7 @@
   </a>
   <br/>
   <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img alt="RealOrangeKun's Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RealOrangeKun&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&stroke_color=7cebf5&border_color=7cebf5&border_radius=10" height="192px"/>
+    <img alt="RealOrangeKun's Streak Stats" src="https://streak-stats.demolab.com/?user=RealOrangeKun&theme=react&background=1F222E&text=7cebf5&ring=2d7de4&fire=2d7de4&currStreakNum=7cebf5&sideNums=7cebf5&sideLabels=7cebf5&dates=7cebf5&stroke=7cebf5&border_radius=10" height="192px"/>
   </a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
