@@ -77,7 +77,7 @@
       <h3>🖥️ Environment</h3>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=arch,vscode,git,github,githubactions,postman" />
+      <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,githubactions,postman" />
     </td>
   </tr>
 </table>
