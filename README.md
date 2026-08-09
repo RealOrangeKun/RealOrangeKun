@@ -103,7 +103,7 @@
   </tr>
 </table>
 
-## 📊 GitHub Analytics
+## 🔥 Streak
 
 <div align="center">
 
