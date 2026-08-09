@@ -12,14 +12,14 @@
        reveal, so the banner still reads correctly if they never run. */
     @keyframes type  { from { clip-path: inset(0 100% 0 0); } }
     @keyframes fade  { from { opacity: 0; } }
-    @keyframes blink { 0%, 50% { opacity: 1; } 50.01%, 100% { opacity: 0; } }
+    @keyframes blink { 0%, 50% { opacity: 0; } 50.01%, 100% { opacity: 1; } }
 
     .l1 { animation: type 0.7s steps(8)  0.2s backwards; }
     .l2 { animation: fade 0.25s          1.0s backwards; }
     .l3 { animation: type 1.0s steps(15) 1.5s backwards; }
     .l4 { animation: type 1.2s steps(38) 2.8s backwards; }
     .l5 { animation: fade 0.2s           4.2s backwards; }
-    .cur { animation: blink 1.1s steps(1) 4.2s infinite; }
+    .cur { animation: blink 1.1s steps(1) 4.4s infinite backwards; }
 
     @media (prefers-reduced-motion: reduce) {
       .l1, .l2, .l3, .l4, .l5, .cur { animation: none; }
