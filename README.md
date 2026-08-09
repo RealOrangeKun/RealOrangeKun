@@ -108,23 +108,10 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/?username=RealOrangeKun&show_icons=true&count_private=true&hide_border=false&bg_color=00000000&title_color=7CEBF5&text_color=C9D1D9&icon_color=2D7DE4&border_color=7CEBF5&border_radius=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/?username=RealOrangeKun&show_icons=true&count_private=true&hide_border=false&bg_color=00000000&title_color=0969DA&text_color=1F2328&icon_color=0969DA&border_color=D0D7DE&border_radius=10" />
-  <img alt="RealOrangeKun's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api/?username=RealOrangeKun&show_icons=true&count_private=true&bg_color=00000000&title_color=7CEBF5&text_color=C9D1D9&icon_color=2D7DE4&border_color=7CEBF5&border_radius=10" height="180px"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RealOrangeKun&langs_count=8&layout=compact&hide_border=false&bg_color=00000000&title_color=7CEBF5&text_color=C9D1D9&border_color=7CEBF5&border_radius=10" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RealOrangeKun&langs_count=8&layout=compact&hide_border=false&bg_color=00000000&title_color=0969DA&text_color=1F2328&border_color=D0D7DE&border_radius=10" />
-  <img alt="RealOrangeKun's Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RealOrangeKun&langs_count=8&layout=compact&bg_color=00000000&title_color=7CEBF5&text_color=C9D1D9&border_color=7CEBF5&border_radius=10" height="180px"/>
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RealOrangeKun&background=00000000&border=7CEBF5&stroke=7CEBF5&ring=2D7DE4&fire=2D7DE4&currStreakNum=7CEBF5&sideNums=C9D1D9&currStreakLabel=7CEBF5&sideLabels=C9D1D9&dates=8B949E&border_radius=10" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=RealOrangeKun&background=00000000&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=0969DA&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=1F2328&dates=57606A&border_radius=10" />
   <img alt="RealOrangeKun's Streak Stats" src="https://streak-stats.demolab.com/?user=RealOrangeKun&background=00000000&border=7CEBF5&stroke=7CEBF5&ring=2D7DE4&fire=2D7DE4&currStreakNum=7CEBF5&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border_radius=10" height="180px"/>
 </picture>
-
-<sub>Top languages just measures what my public repos happen to be written in. It says nothing about what I'm actually good at.</sub>
 
 </div>
 
