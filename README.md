@@ -1,133 +1,165 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=800&color=56BBF7&width=435&lines=Hi%2C+I+am+a+Backend+Engineer;Welcome+to+my+GitHub!" alt="Typing SVG" />
+
+<img src="assets/banner.svg" alt="Backend Developer, Linux Enthusiast" width="760" />
+
+<a href="https://www.linkedin.com/in/yousef-tarek-ali/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://youssef-tarek-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-7CEBF5?style=for-the-badge&logo=googlechrome&logoColor=1F222E" alt="Portfolio"/></a>
+<a href="mailto:yousseftarekali04@gmail.com"><img src="https://img.shields.io/badge/Email-2D7DE4?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=RealOrangeKun&label=Views&color=1F222E&style=for-the-badge" alt="Profile Views"/>
+
 </div>
+
+---
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Coder GIF" width="200">
-</div>
+<table>
+<tr>
+<td valign="top">
 
-- 💻 **Backend Engineer** | Building scalable systems and optimizing databases
-- 🎓 **Education** | Cairo University, Faculty of Computers and Artificial Intelligence
+- 💻 &nbsp;Backend engineer based in Cairo
+- 🎓 &nbsp;Graduate of Cairo University, Faculty of Computers and Artificial Intelligence
+- 🐧 &nbsp;Linux daily driver
+- 📫 &nbsp;yousseftarekali04@gmail.com
 
+</td>
+<td width="200" align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" alt="Coder GIF" width="180">
+</td>
+</tr>
+</table>
 
-
-## 💼 Professional Experience
+## 💼 Experience
 
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <a href="https://outlier.ai/">
-          <b>Outlier</b>
-          <br>
-          <sub>Coding Expert</sub>
-        </a>
+      <td align="center" width="200">
+        <a href="https://outlier.ai/"><b>Outlier</b></a>
+        <br><sub>Coding Expert</sub>
       </td>
-      <td align="center">
-        <a href="https://www.microsystems-eg.com/">
-          <b>Microsystems Egypt</b>
-          <br>
-          <sub>Backend Intern</sub>
-        </a>
+      <td align="center" width="200">
+        <a href="https://www.microsystems-eg.com/"><b>Microsystems Egypt</b></a>
+        <br><sub>Backend Intern</sub>
       </td>
-      <td align="center">
-        <a href="https://www.fawry.com/">
-          <b>Fawry</b>
-          <br>
-          <sub>Fullstack Intern</sub>
-        </a>
+      <td align="center" width="200">
+        <a href="https://www.fawry.com/"><b>Fawry</b></a>
+        <br><sub>Fullstack Intern</sub>
+      </td>
+      <td align="center" width="200">
+        <a href="https://synapse-analytics.io/"><b>Synapse Analytics</b></a>
+        <br><sub>Backend Intern</sub>
       </td>
     </tr>
   </table>
 </div>
 
-## 🛠️ Tech Stack
+## 📌 Featured Projects
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="200">
-      <h3>💻 Languages</h3>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/RealOrangeKun/clean-architecture-template-dotnet">🏛️ Clean Architecture Template</a></h3>
+      <p>A .NET 10 modular monolith you can clone and start building on. Clean Architecture, DDD, CQRS and event driven messaging, already wired together.</p>
+      <div align="center"><img src="https://skillicons.dev/icons?i=dotnet,cs,postgresql,redis,rabbitmq" height="32"/></div>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,js,bash" />
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/RealOrangeKun/askly">❓ Askly</a></h3>
+      <p>A question and answer platform. Semantic search runs on pgvector, with a two layer cache (in memory, then Redis) sitting in front of the reads.</p>
+      <div align="center"><img src="https://skillicons.dev/icons?i=dotnet,cs,postgresql,redis,tailwind" height="32"/></div>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <h3>🔧 Frameworks</h3>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express,dotnet,spring,django,flask,fastapi" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <h3>🗄️ Databases & Tools</h3>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,rabbitmq" />
-      <br/>
-      <img src="https://skillicons.dev/icons?i=nginx,docker,k8s,gcp,cypress" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <h3>🖥️ Environment</h3>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=linux,vscode,git,github,githubactions,postman" />
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/RealOrangeKun/linuxdle">🐧 Linuxdle</a></h3>
+      <p>A daily guessing game for Linux people. Distros, desktop environments and terminal commands, one new round every day.</p>
+      <div align="center"><img src="https://skillicons.dev/icons?i=dotnet,ts,react,tailwind,vercel" height="32"/></div>
     </td>
   </tr>
 </table>
 
-## 💭 Quote
+<div align="center"><sub><a href="https://github.com/RealOrangeKun?tab=repositories">the rest of my repos are over here →</a></sub></div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="180"><b>💻 &nbsp;Languages</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cs,cpp,python,java,js,ts,bash" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="180"><b>🔧 &nbsp;Frameworks</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=dotnet,spring,fastapi,django,flask,express" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="180"><b>🗄️ &nbsp;Data & Messaging</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,rabbitmq" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="180"><b>☁️ &nbsp;Infra & Ops</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker,k8s,nginx,gcp,githubactions,cypress" /></td>
+  </tr>
+  <tr>
+    <td align="center" width="180"><b>🖥️ &nbsp;Environment</b></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux,vscode,git,github,postman" /></td>
+  </tr>
+</table>
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="RealOrangeKun's Github Stats" src="https://github-readme-stats-fast.vercel.app/api/?username=RealOrangeKun&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="RealOrangeKun's Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RealOrangeKun&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/>
-  </a>
-  <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-streak-stats">
-    <img alt="RealOrangeKun's Streak Stats" src="https://streak-stats.demolab.com/?user=RealOrangeKun&theme=react&background=1F222E&text=7cebf5&ring=2d7de4&fire=2d7de4&currStreakNum=7cebf5&sideNums=7cebf5&sideLabels=7cebf5&dates=7cebf5&stroke=7cebf5&border_radius=10" height="192px"/>
-  </a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-
-## 📫 Let's Connect
-
 <div align="center">
-  <a href="mailto:yousseftarekali04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 
-<a href="https://www.linkedin.com/in/yousef-tarek-ali/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/?username=RealOrangeKun&show_icons=true&count_private=true&hide_border=false&bg_color=00000000&title_color=7CEBF5&text_color=C9D1D9&icon_color=2D7DE4&border_color=7CEBF5&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/?username=RealOrangeKun&show_icons=true&count_private=true&hide_border=false&bg_color=00000000&title_color=0969DA&text_color=1F2328&icon_color=0969DA&border_color=D0D7DE&border_radius=10" />
+  <img alt="RealOrangeKun's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api/?username=RealOrangeKun&show_icons=true&count_private=true&bg_color=00000000&title_color=7CEBF5&text_color=C9D1D9&icon_color=2D7DE4&border_color=7CEBF5&border_radius=10" height="180px"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RealOrangeKun&langs_count=8&layout=compact&hide_border=false&bg_color=00000000&title_color=7CEBF5&text_color=C9D1D9&border_color=7CEBF5&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RealOrangeKun&langs_count=8&layout=compact&hide_border=false&bg_color=00000000&title_color=0969DA&text_color=1F2328&border_color=D0D7DE&border_radius=10" />
+  <img alt="RealOrangeKun's Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RealOrangeKun&langs_count=8&layout=compact&bg_color=00000000&title_color=7CEBF5&text_color=C9D1D9&border_color=7CEBF5&border_radius=10" height="180px"/>
+</picture>
 
-  <a href="https://youssef-tarek-portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00BCD4?style=for-the-badge&logo=icloud&logoColor=white" alt="Portfolio"/>
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=RealOrangeKun&background=00000000&border=7CEBF5&stroke=7CEBF5&ring=2D7DE4&fire=2D7DE4&currStreakNum=7CEBF5&sideNums=C9D1D9&currStreakLabel=7CEBF5&sideLabels=C9D1D9&dates=8B949E&border_radius=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=RealOrangeKun&background=00000000&border=D0D7DE&stroke=D0D7DE&ring=0969DA&fire=0969DA&currStreakNum=0969DA&sideNums=1F2328&currStreakLabel=0969DA&sideLabels=1F2328&dates=57606A&border_radius=10" />
+  <img alt="RealOrangeKun's Streak Stats" src="https://streak-stats.demolab.com/?user=RealOrangeKun&background=00000000&border=7CEBF5&stroke=7CEBF5&ring=2D7DE4&fire=2D7DE4&currStreakNum=7CEBF5&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E&border_radius=10" height="180px"/>
+</picture>
+
+<sub>Top languages just measures what my public repos happen to be written in. It says nothing about what I'm actually good at.</sub>
+
 </div>
 
+## 🧊 Contribution Calendar
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RealOrangeKun&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D contribution calendar" src="./profile-3d-contrib/profile-night-view.svg" width="880" />
+  </picture>
+</div>
+
+## 🐍 Watch the Snake Eat My Commits
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RealOrangeKun/RealOrangeKun/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RealOrangeKun/RealOrangeKun/output/snake-light.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/RealOrangeKun/RealOrangeKun/output/snake-dark.svg" width="880" />
+  </picture>
+</div>
+
+## 💭 Quote
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite" />
+    <img alt="Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
+  </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="600" height="300" alt="Cat"/>
 </div>
