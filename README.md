@@ -48,7 +48,8 @@
       </td>
       <td align="center" width="200">
         <a href="https://synapse-analytics.io/"><b>Synapse Analytics</b></a>
-        <br><sub>Backend Intern</sub>
+        <br><sub>Backend Developer</sub>
+        <br><sub>↑ Backend Intern</sub>
       </td>
     </tr>
   </table>
