@@ -34,6 +34,17 @@
 <div align="center">
   <table>
     <tr>
+      <td align="center" colspan="3">
+        <br>
+        <img src="https://img.shields.io/badge/Current-2D7DE4?style=for-the-badge" alt="Current">
+        <h3><a href="https://synapse-analytics.io/">Synapse Analytics</a></h3>
+        <b>Backend Intern</b>
+        &nbsp;<img src="assets/arrow.svg" alt="→" height="22" align="absmiddle">&nbsp;
+        <b>Backend Developer</b>
+        <br><br>
+      </td>
+    </tr>
+    <tr>
       <td align="center" width="200">
         <a href="https://outlier.ai/"><b>Outlier</b></a>
         <br><sub>Coding Expert</sub>
@@ -45,11 +56,6 @@
       <td align="center" width="200">
         <a href="https://www.fawry.com/"><b>Fawry</b></a>
         <br><sub>Fullstack Intern</sub>
-      </td>
-      <td align="center" width="200">
-        <a href="https://synapse-analytics.io/"><b>Synapse Analytics</b></a>
-        <br><sub>Backend Developer</sub>
-        <br><sub>↑ Backend Intern</sub>
       </td>
     </tr>
   </table>
